@@ -1,0 +1,17 @@
+11
+0 22 35 MCC
+-44 13 1 aINS_l 
+47 14 0 aINS_r
+1 -61 38 PCC
+1 55 -3 mPFC
+-39 -77 33 LPC_l
+47 -67 29 LPC_r
+-43 33 28 dlPFC_l
+41 38 30 dlPFC_r
+-46 -58 49 PPC_l
+52 -52 45 PPC_r
+
+
+ 
+
+
